@@ -3273,7 +3273,7 @@ RA003669,MAJOR,525A,Major in Communication (ElecMedBrdcst),2017 - 2017
 RA003670,MAJOR,585A,Major in Communication Studies,2017 - 2017
 RA003671,MAJOR,517A,Major in Communication (Journalism),2017 - 2017
 RA003672,MAJOR,521A,Major in Communication (Public Relations),2017 - 2017
-RA003673,MINOR,532,Minor in Communication,2017 - 9999
+RA003673,MINOR,532,Minor in Communication,2017 - 2024
 RA003674,MAJOR,604*,Major in Sustainable Development (BS),2017 - 2021
 RA003675,CONC,604B,Concentration in Agroecology & Sustainable Agricul,2017 - 2019
 RA003676,CONC,604C,Concentration in Comm Regional & Global Dev,2017 - 2018
@@ -4765,7 +4765,7 @@ RA005185,DEGREE,MS_113C,Master of Science,2019 - 9999
 RA005186,DEGREE,MS_113D,Master of Science,2019 - 9999
 RA005187,DEGREE,MS_207B,Master of Science,2019 - 2019
 RA005188,DEGREE,MS_207D,Master of Science,2019 - 2019
-RA005189,DEGREE,MS_207C,Master of Science,2019 - 9999
+RA005189,DEGREE,MS_207C,Master of Science,2019 - 2019
 RA005190,DEGREE,MS_224E,Master of Science,2019 - 9999
 RA005191,DEGREE,MS_224F,Master of Science,2019 - 9999
 RA005192,DEGREE,MS_224C,Master of Science,2019 - 9999
@@ -4782,8 +4782,8 @@ RA005202,DEGREE,MS_599B,Master of Science,2019 - 9999
 RA005203,DEGREE,MS_599F,Master of Science,2019 - 9999
 RA005205,DEGREE,MS_599H,Master of Science,2019 - 9999
 RA005206,DEGREE,MS_821A,Master of Science,2019 - 2021
-RA005207,DEGREE,MS_842E,Master of Science,2019 - 9999
-RA005208,DEGREE,MS_842B,Master of Science,2019 - 9999
+RA005207,DEGREE,MS_842E,Master of Science,2019 - 2025
+RA005208,DEGREE,MS_842B,Master of Science,2019 - 2025
 RA005209,DEGREE,MS_841B,Master of Science,2019 - 9999
 RA005210,DEGREE,MS_841C,Master of Science,2019 - 9999
 RA005211,DEGREE,MS_842D,Master of Science,2019 - 9999
@@ -4974,8 +4974,8 @@ RA005396,CONC,305C,Conc in International Business,2020 - 9999
 RA005397,CONC,305F,Conc in Business Analytics,2020 - 9999
 RA005398,MAJOR,340A,Cert in Business Analytics,2020 - 2020
 RA005399,MAJOR,207*,Major in Biology,2020 - 9999
-RA005400,CONC,207C,Conc in General Biology,2020 - 9999
-RA005401,CONC,207D,Conc in Ecology & Evolutionary Bio,2020 - 9999
+RA005400,CONC,207C,Conc in General Biology,2020 - 2024
+RA005401,CONC,207D,Conc in Ecology & Evolutionary Bio,2020 - 2024
 RA005402,CONC,207B,Conc in Cell & Molecular Biology,2020 - 2021
 RA005403,MAJOR,446A,Cert in Middle & Secondary Education,2020 - 2020
 RA005404,MAJOR,560A,Major in Music Therapy,2020 - 2020
@@ -5245,7 +5245,7 @@ RA005671,OTHER,#304D_305G,Dual Degree MSADA & MBA in IDS,2021 - 9999
 RA005672,OTHER,Z304D_305G,Dual Degree MSADA & MBA in IDS,2021 - 2021
 RA005673,MAJOR,305*,Major in Business Administration,2021 - 2022
 RA005674,OTHER,Z304D_258A,Dual Degree MSADA & MA in IO Psych & HR Management,2021 - 2021
-RA005675,MAJOR,258A,Major in I/O Psychology & HR Management,2021 - 9999
+RA005675,MAJOR,258A,Major in I/O Psychology & HR Management,2021 - 2024
 RA005676,MAJOR,279*,Major in Public Administration,2021 - 9999
 RA005677,OTHER,Z304D_279F,Dual Degree MSADA & MPA in Not-for-Profit Mgmt,2021 - 2021
 RA005678,OTHER,Z304D_279B,Dual Degree MSADA & MPA in Public Management,2021 - 2021
@@ -5335,7 +5335,7 @@ RA005764,DEGREE,MA_204F_1,Master of Arts,2021 - 9999
 RA005765,DEGREE,MA_204E_1,Master of Arts,2021 - 9999
 RA005766,DEGREE,MSW_135B_2,Master of Social Work,2019 - 9999
 RA005767,CONC,MSC,Mathematical Sciences SAC,2021 - 2021
-RA005768,MINOR,103,Minor in Religious Studies,2022 - 9999
+RA005768,MINOR,103,Minor in Religious Studies,2022 - 2024
 RA005769,MAJOR,101A,Major in Philosophy,2022 - 2022
 RA005770,MAJOR,251A,Major in Psychology (BA),2020 - 2020
 RA005771,OTHER,GPHON,Geography and Planning Honors,2021 - 2023
@@ -5454,9 +5454,9 @@ RA005884,MINOR,345,Innovation and Entrepreneurship Minor,2017 - 2021
 RA005885,MINOR,349,Minor in Sustainable Business,2022 - 9999
 RA005886,MINOR,348,Minor in Human Resource Management,2022 - 9999
 RA005887,CONC,355H,Management Innovation and Entrepreneurship,2022 - 9999
-RA005888,OTHER,MGTELEC,Electives,2022 - 9999
+RA005888,OTHER,MGTELEC,Electives,2022 - 2024
 RA005889,CONC,355F,Management Human Resources,2022 - 9999
-RA005890,CONC,355G,Management Sustainable Business,2022 - 9999
+RA005890,CONC,355G,Management Sustainable Business,2022 - 2024
 RA005891,CONC,355X,Management General Management,2022 - 9999
 RA005892,CONC,315C,Conc in Economics (General),2019 - 2020
 RA005893,CONC,315B,Conc in Environmental Policy & Mgmt,2019 - 2020
@@ -5629,7 +5629,7 @@ RA006060,CONC,680B,Conc in Performance/Conducting,2022 - 9999
 RA006061,MAJOR,423A,Cert in Addiction Counseling,2022 - 2022
 RA006062,MAJOR,702*,Major in Educational Leadership,2022 - 2022
 RA006063,MAJOR,464A,Cert in Instructional Technology Facilitation,2022 - 2023
-RA006064,OTHER,Z465A_400C,Dual Degree-MLS & MA in MTL,2022 - 9999
+RA006064,OTHER,Z465A_400C,Dual Degree-MLS & MA in MTL,2022 - 2024
 RA006065,MAJOR,400*,Major in Media Technology & Learning Design,2022 - 9999
 RA006066,CONC,400C,Conc in IT K-12 Facilitation,2022 - 2022
 RA006067,MAJOR,427A,Major in Professional School Counseling,2022 - 2022
@@ -5652,7 +5652,7 @@ RA006083,CONC,232F,Conc in Literary Studies,2022 - 9999
 RA006084,CONC,232D,Conc in Rhetoric and Composition,2022 - 9999
 RA006085,CONC,232E,Conc in Teaching Literature and Writing,2022 - 2022
 RA006086,CONC,237D,Conc in Geographic Information Science,2022 - 9999
-RA006087,CONC,207B,Conc in Cell & Molecular Biology,2022 - 9999
+RA006087,CONC,207B,Conc in Cell & Molecular Biology,2022 - 2024
 RA006088,MAJOR,719A,Cert in Birth through Kindergarten,2022 - 2022
 RA006089,MAJOR,433A,Major in School Administration,2022 - 2022
 RA006090,MAJOR,473A,Cert in School Leadership,2022 - 9999
@@ -5728,8 +5728,8 @@ RA006159,CONC,840C,Concentration in Foodsystems Management,2023 - 2024
 RA006160,CONC,840B,Concentration in Foods & Nutrition (Dietetics),2023 - 2024
 RA006161,CONC,840D,Concentration in Nutrition and Wellness,2023 - 2023
 RA006162,MINOR,605,Minor in Medical Humanities,2023 - 9999
-RA006163,MINOR,214,Minor in Chemistry,2023 - 9999
-RA006164,MAJOR,924A,Professional Studies,2023 - 9999
+RA006163,MINOR,214,Minor in Chemistry,2023 - 2024
+RA006164,MAJOR,924A,Professional Studies,2023 - 2024
 RA006165,DEGREE,BS_924A,Professional Studies,2023 - 9999
 RA006166,DEGREE,924A,Professional Studies,2023 - 9999
 RA006167,MAJOR,219A,Major in Computer Science,2023 - 2023
@@ -5956,7 +5956,7 @@ RA006387,DEGREE,456I_2,Career & Tech Edu Workforce Leadership & Dev (GC),2020 - 
 RA006388,MAJOR,305*,Major in Business Administration,2023 - 9999
 RA006389,CONC,305J,Conc in Cybersecurity,2023 - 9999
 RA006390,OTHER,Z305G_279B,Dual Degree MBA & MPA,2023 - 9999
-RA006391,OTHER,Z305G_258A,Dual Degree MBA & MA in Psychology/IOHRM,2023 - 9999
+RA006391,OTHER,Z305G_258A,Dual Degree MBA & MA in Psychology/IOHRM,2023 - 2024
 RA006392,OTHER,Z305G_454G,Dual Degree MBA & MA in Higher Ed Comm & Univ Ldr,2023 - 2023
 RA006393,CONC,304G,Conc in Cybersecurity,2023 - 9999
 RA006394,CONC,145C,Conc in Clinical Psychology,2023 - 9999
@@ -6049,7 +6049,7 @@ RA006481,CONC,142B,Conc in Cell/Molecular Biology,2024 - 2024
 RA006482,CONC,142D,Conc in Secondary Education,2024 - 2024
 RA006483,CONC,142E,Conc in Biology Integrative Biology (BS),2024 - 9999
 RA006484,CONC,259C,Concentration in Environmental Geology,2024 - 2024
-RA006485,CONC,259G,Conc in Earth/Env Science Sec Edu,2024 - 9999
+RA006485,CONC,259G,Conc in Earth/Env Science Sec Edu,2024 - 2024
 RA006486,CONC,456E,Conc in Tech Engineering & Design Education,2024 - 9999
 RA006487,CONC,456F,Conc in Trade & Industry Education,2024 - 9999
 RA006489,CONC,567E,Conc in Clinical Exercise Physiology,2024 - 9999
@@ -6061,7 +6061,7 @@ RA006494,MAJOR,269A,Major in Physics (BA),2024 - 9999
 RA006495,MAJOR,270*,Major in Physics (BS),2024 - 9999
 RA006497,MAJOR,571A,Major in Sustainable Technology,2024 - 2025
 RA006498,MAJOR,578A,Major in Appropriate Technology,2024 - 9999
-RA006499,MINOR,270,Minor in Physics,2024 - 9999
+RA006499,MINOR,270,Minor in Physics,2024 - 2024
 RA006500,MINOR,273,Physics Minor for Secondary Education Majors,2024 - 9999
 RA006501,MAJOR,563A,Major in Nursing (RN to BSN),2024 - 2024
 RA006502,OTHER,BSNCORE,RN to BSN Required Core,2024 - 9999
@@ -6183,14 +6183,14 @@ RA006617,MAJOR,715A,Major in Psychology,2024 - 9999
 RA006618,CONC,841B,Concentration in Dietetics,2024 - 9999
 RA006619,CONC,841C,Concentration in Public Health Nutrition,2024 - 9999
 RA006620,MAJOR,821A,Major in Speech-Language Pathology,2024 - 9999
-RA006621,MAJOR,842*,Major in Exercise Science,2024 - 9999
-RA006622,CONC,842E,Conc in Clinical Exercise Physiology,2024 - 9999
-RA006623,CONC,842B,Conc in Research,2024 - 9999
-RA006624,CONC,842D,Conc in Strength and Conditioning,2024 - 9999
+RA006621,MAJOR,842*,Major in Exercise Science,2024 - 2025
+RA006622,CONC,842E,Conc in Clinical Exercise Physiology,2024 - 2025
+RA006623,CONC,842B,Conc in Research,2024 - 2025
+RA006624,CONC,842D,Conc in Strength and Conditioning,2024 - 2025
 RA006625,MAJOR,132A,Cert in Rhetoric & Composition,2024 - 9999
 RA006626,MAJOR,476A,Major in Special Education,2024 - 9999
 RA006627,CONC,302C,Conc in General Accounting,2024 - 9999
-RA006628,MAJOR,720A,Cert in Special Education,2024 - 9999
+RA006628,MAJOR,720A,Cert in Special Education,2024 - 2024
 RA006629,MAJOR,472*,Major in Middle Grades Education,2024 - 9999
 RA006630,MAJOR,446A,Cert in Middle & Secondary Education,2024 - 9999
 RA006631,MAJOR,232*,Major in English,2024 - 9999
@@ -6202,14 +6202,14 @@ RA006636,MAJOR,941A,Cert in Digital Media Literacy,2024 - 9999
 RA006637,MAJOR,464A,Cert in Instructional Technology Facilitation,2024 - 9999
 RA006638,MAJOR,944A,Cert in Online Design Comm and Engagement,2024 - 9999
 RA006639,DEGREE,MA_416A_1,Master of Arts,2020 - 2022
-RA006640,DEGREE,MS_822A,Master of Science,2024 - 9999
+RA006640,DEGREE,MSOT_822A,Master of Science,2024 - 9999
 RA006641,MAJOR,822A,Major in Occupational Therapy,2024 - 9999
 RA006642,CONC,599I,Conc in Renewable Energy Technology,2024 - 9999
 RA006643,CONC,599H,Conc in Sustain Bldg Design & Constr,2024 - 9999
 RA006644,DEGREE,MLS_465D,Master of Library Science,2024 - 9999
-RA006645,MAJOR,465*,Major in Library Science,2024 - 9999
-RA006646,CONC,465D,Conc in Library Science General,2024 - 9999
-RA006647,CONC,465B,Conc in School Libraries,2024 - 9999
+RA006645,MAJOR,465*,Major in Library Science,2024 - 2024
+RA006646,CONC,465D,Conc in Library Science General,2024 - 2024
+RA006647,CONC,465B,Conc in School Libraries,2024 - 2024
 RA006648,MAJOR,109A,Cert in Planning,2024 - 9999
 RA006649,MAJOR,560A,Major in Music Therapy,2024 - 9999
 RA006650,CONC,255F,Conc in Teaching,2024 - 9999
@@ -6421,5 +6421,32 @@ RA006858,DEGREE,BS_510J,Child Dev Child and Family Science (BS),2025 - 9999
 RA006859,DEGREE,510J,Child Dev Child and Family Science (GC),2025 - 9999
 RA006860,MAJOR,809A,Major in Nursing (BSN),2025 - 9999
 RA006861,MINOR,244,Minor in Geology,2023 - 9999
-RA006862,OTHER,MATSCIPSY,MATSCIPSY,2025 - 9999
+RA006862,OTHER,MATSCIPSY,Science/Math in PSY - ADMINISTRATIVE USE ONLY,2025 - 9999
 RA006863,DEGREE,MA_204F_2,Master of Arts,2021 - 9999
+RA006864,MAJOR,924A,Professional Studies,2025 - 9999
+RA006865,MINOR,214,Minor in Chemistry,2025 - 9999
+RA006866,CONC,355G,Management Sustainable Business,2025 - 9999
+RA006867,MINOR,532,Minor in Communication,2025 - 9999
+RA006868,OTHER,MGTELEC,Electives,2025 - 9999
+RA006869,MINOR,103,Minor in Religious Studies,2025 - 9999
+RA006870,DEGREE,MS_207C,Master of Science,2020 - 9999
+RA006871,CONC,207D,Conc in Ecology & Evolutionary Bio,2025 - 9999
+RA006872,CONC,207B,Conc in Cell & Molecular Biology,2025 - 9999
+RA006873,CONC,207C,Conc in General Biology,2025 - 9999
+RA006874,OTHER,Z465B_400C,Dual Degree-MLS-School Libs & MA in MTL-IT K-12,2025 - 9999
+RA006875,OTHER,Z465D_400D,Dual Degree-MLS-General & MA in MTL-ODCE,2025 - 9999
+RA006876,MAJOR,720A,Cert in Special Education,2025 - 9999
+RA006877,OTHER,Z305G_258A,Dual Degree MBA & MA in Psychology/IOHRM,2025 - 9999
+RA006878,MAJOR,465*,Major in Library Science,2025 - 9999
+RA006879,CONC,465D,Conc in Library Science General,2025 - 9999
+RA006880,CONC,465B,Conc in School Libraries,2025 - 9999
+RA006881,DEGREE,GCERT_725A,Graduate Certificate,2025 - 9999
+RA006882,DEGREE,MS_815C,Master of Science,2025 - 9999
+RA006883,DEGREE,MS_815D,Master of Science,2025 - 9999
+RA006884,DEGREE,MS_815B,Master of Science,2025 - 9999
+RA006885,DEGREE,MS_304K,Master of Science,2025 - 9999
+RA006886,DEGREE,MBA_305K,Master of Business Administration,2025 - 9999
+RA006887,DEGREE,MA_728A,Master of Arts,2025 - 9999
+RA006888,DEGREE,GCERT_721A,Graduate Certificate,2025 - 9999
+RA006889,CONC,259G,Conc in Earth/Env Science Sec Edu,2025 - 9999
+RA006890,MINOR,270,Minor in Physics,2025 - 9999
