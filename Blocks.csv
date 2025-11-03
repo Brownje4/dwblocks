@@ -5387,7 +5387,7 @@ RA005817,OTHER,BIO142E,Integrative Biology Concentration Electives,2022 - 2023
 RA005818,CONC,142B,Conc in Cell/Molecular Biology,2022 - 2023
 RA005819,CONC,142D,Conc in Secondary Education,2022 - 2023
 RA005820,CONC,214J,Conc in Secondary Education,2022 - 2023
-RA005821,MAJOR,234A,Major in English (Secondary Ed),2022 - 9999
+RA005821,MAJOR,234A,Major in English (Secondary Ed),2022 - 2024
 RA005822,MINOR,205,Minor in Southern Studies,2022 - 9999
 RA005823,CONC,241D,Conc in Geography (GIS),2022 - 9999
 RA005824,MAJOR,140A,Cert in GIS,2022 - 9999
@@ -6499,6 +6499,10 @@ RA006936,CONC,214K,Conc in Biochemistry,2024 - 9999
 RA006937,OTHER,CYBELEC,Cybersecurity Electives,2025 - 9999
 RA006938,MINOR,271,Minor in Political Science,2025 - 9999
 RA006939,MINOR,586,Minor in Theatre Arts,2025 - 9999
-RA006940,OTHER,CISELEC,Electives,2024 - 2024
+RA006940,OTHER,CISELEC,Electives,2023 - 2024
 RA006941,OTHER,HTMELEC,Electives,2025 - 9999
 RA006942,MAJOR,604*,Major in Sustainable Development (BS),2025 - 9999
+RA006943,OTHER,Z305G_728A,Dual Degree MBA & MA in Higher Ed & Student Affair,2025 - 9999
+RA006944,DEGREE,GCERT_773A,Graduate Certificate,2025 - 9999
+RA006945,DEGREE,GCERT_473A_1,Graduate Certificate,2020 - 2020
+RA006946,MAJOR,234A,Major in English (Secondary Ed),2025 - 9999
