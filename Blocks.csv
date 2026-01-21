@@ -2649,7 +2649,7 @@ RA003013,MAJOR,585A,Major in Communication Studies,2015 - 2015
 RA003014,MAJOR,603A,Major in Sustainable Development (BA),2015 - 9999
 RA003015,DEGREE,603A,Sustainable Development (GC),2015 - 2016
 RA003016,DEGREE,BA_603A,Sustainable Development (BA),2015 - 2017
-RA003017,MINOR,294,Minor in Sustainable Development,2015 - 9999
+RA003017,MINOR,294,Minor in Sustainable Development,2015 - 2024
 RA003018,MINOR,515,Minor in Dance,2015 - 2017
 RA003019,OTHER,CBGLOB,WCOB Global Issues Requirement,2015 - 2017
 RA003020,MINOR,301,Minor in Accounting,2015 - 2018
@@ -4086,7 +4086,7 @@ RA004497,CONC,456B,Conc in Business Finance & Info Tech Education,2019 - 2023
 RA004498,CONC,456C,Conc in Business Marketing & Entrepreneurship,2019 - 2023
 RA004499,CONC,201D,Conc in Archaeology,2018 - 2018
 RA004500,CONC,456G,Concentration in Workforce Education & Development,2019 - 2019
-RA004501,MAJOR,337A,Major in International Business,2019 - 9999
+RA004501,MAJOR,337A,Major in International Business,2019 - 2024
 RA004502,CONC,SDT,Conc in Sustain Design and Tech (SAC),2019 - 9999
 RA004503,CONC,142D,Conc in Secondary Education,2019 - 2020
 RA004504,CONC,250E,Conc in Individually Designed,2019 - 2020
@@ -4156,9 +4156,9 @@ RA004567,MINOR,580,Minor in Building Science,2019 - 9999
 RA004568,OTHER,CISELEC,Electives,2019 - 2020
 RA004569,OTHER,FBIELEC,Electives,2019 - 2022
 RA004570,OTHER,HTMELEC,Electives,2019 - 2022
-RA004571,OTHER,IBELEC,Electives,2019 - 9999
+RA004571,OTHER,IBELEC,Electives,2019 - 2024
 RA004572,OTHER,MGTELEC,Electives,2019 - 2021
-RA004573,OTHER,MKTELEC,Electives,2019 - 9999
+RA004573,OTHER,MKTELEC,Electives,2019 - 2024
 RA004574,OTHER,RMIELEC,Electives,2019 - 9999
 RA004575,OTHER,SCMELEC,Electives,2019 - 9999
 RA004576,MINOR,260,Minor in Mathematics,2019 - 9999
@@ -4562,7 +4562,7 @@ RA004978,CONC,255B,Conc in General History,2019 - 9999
 RA004979,CONC,207B,Conc in Cell & Molecular Biology,2019 - 2019
 RA004980,CONC,207D,Conc in Ecology & Evolutionary Bio,2019 - 2019
 RA004981,MAJOR,702*,Major in Educational Leadership,2019 - 2021
-RA004982,OTHER,ECOELEC,Electives,2019 - 9999
+RA004982,OTHER,ECOELEC,Electives,2019 - 2024
 RA004983,OTHER,ECOINFO,Senior Check Course Eligibility & Residency Info,2019 - 9999
 RA004984,DEGREE,134A_2,Gender Women's & Sexuality Studies (GC),2015 - 2018
 RA004985,DEGREE,134A_2,Gender Women's & Sexuality Studies (GC),2019 - 9999
@@ -5071,9 +5071,9 @@ RA005495,CONC,549D,Concentration in Art Management,2021 - 2021
 RA005496,MAJOR,208A,Major in Biology,2021 - 2021
 RA005497,MAJOR,216A,Major in Chemistry,2021 - 2023
 RA005498,MAJOR,581A,Major in Dance Studies,2021 - 9999
-RA005499,CONC,315B,Conc in Environmental Policy & Mgmt,2021 - 9999
+RA005499,CONC,315B,Conc in Environmental Policy & Mgmt,2021 - 2024
 RA005500,CONC,315C,Conc in Economics (General),2021 - 2022
-RA005501,CONC,315D,Conc in International Economics,2021 - 9999
+RA005501,CONC,315D,Conc in International Economics,2021 - 2024
 RA005502,CONC,315E,Conc in Regional Development,2021 - 2022
 RA005503,CONC,233B,Concentration in Creative Writing,2021 - 2024
 RA005504,CONC,233D,Concentration in Film Studies,2021 - 2024
@@ -5127,7 +5127,7 @@ RA005552,CONC,470E,Conc in Mid Grades Social Studies,2021 - 9999
 RA005553,MAJOR,218A,Major in Community & Regional Planning,2021 - 2021
 RA005554,CONC,S S,Conc in Social Studies Non-El Ed (SAC),2021 - 9999
 RA005555,MAJOR,241*,Major in Geography,2021 - 2021
-RA005556,MINOR,242,Minor in Geography,2021 - 9999
+RA005556,MINOR,242,Minor in Geography,2021 - 2024
 RA005557,MINOR,144,Minor in Atmospheric Science,2021 - 9999
 RA005558,MAJOR,116A,Major in History (Social Studies Education),2021 - 2021
 RA005559,MINOR,126,Minor in Judaic Holocaust & Peace Studies,2021 - 2021
@@ -5667,7 +5667,7 @@ RA006098,MAJOR,113*,Major in Engineering Physics,2022 - 9999
 RA006099,MAJOR,465A,Major in Library Science,2022 - 2023
 RA006100,MAJOR,251A,Major in Psychology (BA),2018 - 2018
 RA006101,MINOR,345,Innovation and Entrepreneurship Minor,2022 - 2023
-RA006102,OTHER,ACCELEC,Electives,2022 - 9999
+RA006102,OTHER,ACCELEC,Electives,2022 - 2024
 RA006103,DEGREE,MA_400C,Master of Arts,2022 - 2022
 RA006104,DEGREE,MA_400B,Master of Arts,2022 - 2022
 RA006105,DEGREE,MA_400D,Master of Arts,2022 - 2022
@@ -5700,8 +5700,8 @@ RA006131,MAJOR,102A,Major in Religious Studies,2023 - 2023
 RA006132,CONC,284D,Conc in Applied Research Methods,2023 - 2024
 RA006133,MAJOR,284*,Major in Sociology (BS),2023 - 2024
 RA006134,MINOR,313,Minor in Behavioral Economics,2023 - 2024
-RA006135,CONC,315C,Conc in Economics (General),2023 - 9999
-RA006136,CONC,315E,Conc in Regional Development,2023 - 9999
+RA006135,CONC,315C,Conc in Economics (General),2023 - 2024
+RA006136,CONC,315E,Conc in Regional Development,2023 - 2024
 RA006137,MAJOR,585A,Major in Communication Studies,2023 - 2023
 RA006138,MAJOR,301A,Major in Accounting,2023 - 9999
 RA006139,CONC,310C,Comp Info Sys Cybersecurity Concentration,2023 - 9999
@@ -5709,7 +5709,7 @@ RA006140,OTHER,CISELEC,Electives,2025 - 9999
 RA006141,MINOR,307,Cybersecurity,2023 - 2023
 RA006142,CONC,310B,General Computer Information Systems Concentration,2023 - 9999
 RA006143,MAJOR,326A,Major in Finance & Banking,2023 - 9999
-RA006144,OTHER,FBIELEC,Electives,2023 - 9999
+RA006144,OTHER,FBIELEC,Electives,2023 - 2024
 RA006145,MINOR,360,Minor in Supply Chain Management,2023 - 9999
 RA006146,MAJOR,361A,Major in Supply Chain Management,2023 - 9999
 RA006147,MINOR,438,Minor in Teacher Education for Theatre Arts,2023 - 2024
@@ -5785,7 +5785,7 @@ RA006216,DEGREE,GCERT_719A_1,Graduate Certificate,2023 - 9999
 RA006217,MAJOR,719A,Cert in Birth through Kindergarten,2023 - 9999
 RA006218,DEGREE,GCERT_717A_1,Graduate Certificate,2023 - 9999
 RA006219,MAJOR,717A,Cert in Emotional and Behavioral Disorders,2023 - 9999
-RA006220,DEGREE,GCERT_720A_1,Graduate Certificate,2023 - 9999
+RA006220,DEGREE,GCERT_720A_1,Graduate Certificate,2023 - 2024
 RA006221,MAJOR,720A,Cert in Special Education,2023 - 2023
 RA006222,DEGREE,MA_454E_1,Master of Arts,2023 - 9999
 RA006223,DEGREE,MA_454F_1,Master of Arts,2023 - 9999
@@ -6161,7 +6161,7 @@ RA006595,CONC,136B,Conc in French & Francophone Studies,2024 - 9999
 RA006596,CONC,136E,Conc in German,2024 - 9999
 RA006597,CONC,137C,Conc in Spanish Education (K-12),2024 - 2024
 RA006598,CONC,137B,Conc in French & Francophone Studies K-12,2024 - 9999
-RA006599,MINOR,844,Minor in Spanish for the Health and Helping Prof,2024 - 9999
+RA006599,MINOR,844,Minor in Spanish for the Health and Helping Prof,2024 - 2024
 RA006600,MAJOR,101A,Major in Philosophy,2024 - 2024
 RA006601,MINOR,995,Philosophy Politics & Economics,2024 - 9999
 RA006602,MINOR,996,Philosophy & Religious Studies,2024 - 9999
@@ -6229,7 +6229,7 @@ RA006663,DEGREE,MPH_833A,Master of Public Health,2024 - 9999
 RA006664,MAJOR,833A,Major in Public Health,2024 - 2024
 RA006665,OTHER,GENED15,General Education Requirements,2025 - 9999
 RA006666,DEGREE,MS_599I,Master of Science,2024 - 9999
-RA006667,CONC,232E,Conc in Teaching Literature and Writing,2023 - 2023
+RA006667,CONC,232E,Conc in Teaching Literature and Writing,2023 - 9999
 RA006668,DEGREE,MA_416A_3,Master of Arts,2024 - 9999
 RA006669,MAJOR,416A,Major in Curriculum Specialist,2024 - 9999
 RA006670,DEGREE,723A,Organizational Leadership and Learning (GC),2024 - 9999
@@ -6506,3 +6506,19 @@ RA006943,OTHER,Z305G_728A,Dual Degree MBA & MA in Higher Ed & Student Affair,202
 RA006944,DEGREE,GCERT_773A,Graduate Certificate,2025 - 9999
 RA006945,DEGREE,GCERT_473A_1,Graduate Certificate,2020 - 2020
 RA006946,MAJOR,234A,Major in English (Secondary Ed),2025 - 9999
+RA006947,OTHER,ACCELEC,Electives,2025 - 9999
+RA006948,CONC,315B,Conc in Environmental Policy & Mgmt,2025 - 9999
+RA006949,OTHER,ECOELEC,Electives,2025 - 9999
+RA006950,CONC,315C,Conc in Economics (General),2025 - 9999
+RA006951,CONC,315D,Conc in International Economics,2025 - 9999
+RA006952,CONC,315E,Conc in Regional Development,2025 - 9999
+RA006953,OTHER,FBIELEC,Electives,2025 - 9999
+RA006954,OTHER,IBELEC,Electives,2025 - 9999
+RA006955,OTHER,MKTELEC,Electives,2025 - 9999
+RA006956,MAJOR,337A,Major in International Business,2025 - 9999
+RA006957,MINOR,294,Minor in Sustainable Development,2025 - 9999
+RA006958,DEGREE,MA_400D_2,Master of Arts,2023 - 9999
+RA006959,MINOR,844,Minor in Spanish for the Health and Helping Prof,2025 - 9999
+RA006960,MINOR,242,Minor in Geography,2025 - 9999
+RA006961,DEGREE,GCERT_720A_1,Graduate Certificate,2025 - 9999
+RA006962,DEGREE,MS_841C_2,Master of Science,2019 - 9999
