@@ -2983,7 +2983,7 @@ RA003374,CONC,315E,Conc in Regional Development,2016 - 2018
 RA003375,MAJOR,326A,Major in Finance & Banking,2016 - 2016
 RA003376,MAJOR,371A,Major in Hospitality & Tourism Management,2016 - 2022
 RA003377,MAJOR,337A,Major in International Business,2016 - 2016
-RA003378,MAJOR,355A,Major in Management,2016 - 9999
+RA003378,MAJOR,355A,Major in Management,2016 - 2020
 RA003379,MAJOR,352*,Major in Marketing,2016 - 9999
 RA003380,CONC,352B,Concentration in General Marketing,2016 - 2019
 RA003381,DEGREE,352B,Marketing General Marketing (GC),2016 - 2018
@@ -4741,7 +4741,7 @@ RA005161,DEGREE,MM_558B,Master of Music,2019 - 9999
 RA005162,DEGREE,MM_558C,Master of Music,2019 - 9999
 RA005163,DEGREE,MM_558D,Master of Music,2019 - 9999
 RA005164,DEGREE,MM_558W,Master of Music,2019 - 9999
-RA005165,DEGREE,MM_680B,Master of Music,2019 - 9999
+RA005165,DEGREE,MM_680B,Master of Music,2019 - 2023
 RA005166,DEGREE,MM_558Y,Master of Music,2019 - 9999
 RA005167,DEGREE,MM_558E,Master of Music,2019 - 9999
 RA005168,DEGREE,MM_558F,Master of Music,2019 - 9999
@@ -5392,7 +5392,7 @@ RA005822,MINOR,205,Minor in Southern Studies,2022 - 9999
 RA005823,CONC,241D,Conc in Geography (GIS),2022 - 9999
 RA005824,MAJOR,140A,Cert in GIS,2022 - 9999
 RA005825,MAJOR,218A,Major in Community & Regional Planning,2022 - 2024
-RA005826,MAJOR,241*,Major in Geography,2022 - 9999
+RA005826,MAJOR,241*,Major in Geography,2022 - 2024
 RA005827,CONC,241C,Concentration in Geography (General),2022 - 9999
 RA005828,MAJOR,242A,Major in Geography,2022 - 9999
 RA005829,CONC,259G,Conc in Earth/Env Science Sec Edu,2022 - 2023
@@ -6047,7 +6047,7 @@ RA006479,CONC,470B,Conc in Mid Grades Language Arts,2024 - 9999
 RA006480,CONC,121F,Concentration in Natural Resources,2024 - 2024
 RA006481,CONC,142B,Conc in Cell/Molecular Biology,2024 - 2024
 RA006482,CONC,142D,Conc in Secondary Education,2024 - 2024
-RA006483,CONC,142E,Conc in Biology Integrative Biology (BS),2024 - 9999
+RA006483,CONC,142E,Conc in Biology Integrative Biology (BS),2024 - 2024
 RA006484,CONC,259C,Concentration in Environmental Geology,2024 - 2024
 RA006485,CONC,259G,Conc in Earth/Env Science Sec Edu,2024 - 2024
 RA006486,CONC,456E,Conc in Tech Engineering & Design Education,2024 - 9999
@@ -6541,3 +6541,11 @@ RA006978,CONC,315D,Conc in International Economics,2026 - 9999
 RA006979,CONC,315E,Conc in Regional Development,2026 - 9999
 RA006980,MAJOR,316A,Major in Economics,2026 - 9999
 RA006981,MAJOR,728A,Major in Higher Education (MA),2025 - 9999
+RA006982,DEGREE,GCERT_727A,Graduate Certificate,2025 - 9999
+RA006983,CONC,142E,Conc in Biology Integrative Biology (BS),2025 - 9999
+RA006984,DEGREE,BSB_337A_2,International Business (BSBA),2019 - 9999
+RA006985,DEGREE,337A_2,International Business (GC),2019 - 9999
+RA006986,MAJOR,241*,Major in Geography,2025 - 9999
+RA006987,DEGREE,MA_400C_1,Master of Arts,2022 - 2022
+RA006988,DEGREE,MM_680B,Master of Music,2024 - 9999
+RA006989,MAJOR,355A,Major in Management,2021 - 9999
