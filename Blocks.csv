@@ -3220,7 +3220,7 @@ RA003614,CONC,305I,Conc in Supply Chain Management,2016 - 2019
 RA003615,MAJOR,204*,Major in Appalachian Studies,2016 - 9999
 RA003616,CONC,204F,Conc in Culture and Music,2016 - 9999
 RA003617,CONC,204E,Conc in Sustainability in Appalachia,2016 - 9999
-RA003618,MAJOR,267*,Major in Political Science,2016 - 9999
+RA003618,MAJOR,267*,Major in Political Science,2016 - 2025
 RA003619,CONC,267C,Conc in American Government,2016 - 9999
 RA003620,CONC,267E,Conc in Int'l Relations/Comparative Politics,2016 - 9999
 RA003621,CONC,267F,Conc in Environmental Politics & Policy Analysis,2016 - 2020
@@ -3324,7 +3324,7 @@ RA003720,MAJOR,201A,Major in Anthropology,2017 - 2018
 RA003721,CONC,201D,Conc in Archaeology,2017 - 2017
 RA003722,CONC,202E,Conc in Social Practice & Sustainability (SPS),2017 - 2018
 RA003723,CONC,202F,Conc in Sociocultural Anthropology,2017 - 2018
-RA003724,MINOR,202,Minor in Evolutionary Anthropology & Primatology,2017 - 9999
+RA003724,MINOR,202,Minor in Evolutionary Anthropology & Primatology,2017 - 2024
 RA003725,CONC,142B,Conc in Cell/Molecular Biology,2017 - 2018
 RA003726,MAJOR,219A,Major in Computer Science,2017 - 2018
 RA003727,MAJOR,214*,Major in Chemistry,2017 - 2018
@@ -3484,8 +3484,8 @@ RA003880,MAJOR,461A,Cert in New Media Literacies & Global Perspectives,2017 - 20
 RA003881,MAJOR,464A,Cert in Instructional Technology Facilitation,2017 - 2020
 RA003882,MAJOR,449A,Cert in Reading Education,2017 - 2019
 RA003883,MINOR,445,Minor in Autism Spectrum Disorders,2017 - 2020
-RA003884,CONC,135B,Conc in Community & Org Practice,2017 - 9999
-RA003885,CONC,135C,Conc in Individuals & Families,2017 - 9999
+RA003884,CONC,135B,Conc in Community & Org Practice,2017 - 2025
+RA003885,CONC,135C,Conc in Individuals & Families,2017 - 2025
 RA003886,MAJOR,431A,Cert in Instructional Technology Leadership,2017 - 2020
 RA003887,CONC,702I,Conc in Literacy in Exceptionalities,2017 - 2017
 RA003888,MAJOR,476*,Major in Special Education,2017 - 2018
@@ -3496,10 +3496,10 @@ RA003892,CONC,702H,Conc in Instructional Technology Leadership,2017 - 2022
 RA003893,MAJOR,841A,Major in Nutrition,2017 - 2018
 RA003894,CONC,232D,Conc in Rhetoric and Composition,2017 - 2021
 RA003895,MAJOR,224*,Major in Computer Science,2017 - 9999
-RA003896,CONC,224B,Conc in Theoretics,2017 - 9999
-RA003897,CONC,224C,Conc in Systems,2017 - 9999
-RA003898,CONC,224D,Conc in Web & Mobile,2017 - 9999
-RA003899,CONC,224E,Conc in Data Science & Visual Computing,2017 - 9999
+RA003896,CONC,224B,Conc in Theoretics,2017 - 2025
+RA003897,CONC,224C,Conc in Systems,2017 - 2025
+RA003898,CONC,224D,Conc in Web & Mobile,2017 - 2025
+RA003899,CONC,224E,Conc in Data Science & Visual Computing,2017 - 2025
 RA003900,CONC,224F,Conc in Foundations,2017 - 9999
 RA003901,CONC,260B,Conc in Mathematics (General),2017 - 2017
 RA003902,DEGREE,MA_267C_2,Master of Arts,2017 - 2017
@@ -3564,7 +3564,7 @@ RA003962,CONC,284I,Conc in Individually Designed (Sociology),2018 - 2020
 RA003963,MINOR,601,Minor in Global Studies,2018 - 9999
 RA003964,MINOR,611,Minor in Africana Studies,2018 - 2018
 RA003965,MAJOR,611A,Africana Studies (UG Cert),2018 - 2018
-RA003966,MINOR,233,Minor in English,2018 - 9999
+RA003966,MINOR,233,Minor in English,2018 - 2025
 RA003967,CONC,233E,Conc in Literary Studies,2018 - 2018
 RA003968,CONC,233C,Conc in Professional Writing,2018 - 2018
 RA003969,MAJOR,116A,Major in History (Social Studies Education),2018 - 2018
@@ -3978,7 +3978,7 @@ RA004384,MINOR,357,Minor in Digital Marketing,2019 - 2019
 RA004385,CONC,576C,Concentration in Product Design,2019 - 2020
 RA004386,OTHER,GENED15,General Education Requirements,2019 - 2020
 RA004387,MINOR,128,Minor in Classical Civilizations,2019 - 2019
-RA004388,MINOR,131,Minor in Medieval Studies,2019 - 9999
+RA004388,MINOR,131,Minor in Medieval Studies,2019 - 2025
 RA004389,MINOR,505,Minor in Art History,2019 - 2021
 RA004390,MAJOR,511A,Major in Graphic Design,2019 - 2019
 RA004391,MAJOR,549*,Major in Art & Visual Culture,2019 - 2021
@@ -4553,7 +4553,7 @@ RA004969,MAJOR,145*,Major in Psychology,2019 - 2024
 RA004970,CONC,145B,Conc in Experimental Psychology,2019 - 2022
 RA004971,MAJOR,125A,Major in School Psychology,2019 - 2020
 RA004972,CONC,841B,Concentration in Dietetics,2019 - 2020
-RA004973,MAJOR,135*,Major in Social Work,2019 - 9999
+RA004973,MAJOR,135*,Major in Social Work,2019 - 2025
 RA004974,MAJOR,255*,Major in History,2019 - 9999
 RA004975,CONC,255C,Conc in Historic Preservation,2019 - 2020
 RA004976,CONC,255E,Conc in Museum Studies,2019 - 2020
@@ -4946,9 +4946,9 @@ RA005368,CONC,841C,Concentration in Public Health Nutrition,2020 - 2020
 RA005369,MAJOR,821A,Major in Speech-Language Pathology,2020 - 2022
 RA005370,CONC,222C,Conc in French College Teaching,2020 - 2024
 RA005371,CONC,222E,Conc in Spanish College Teaching,2020 - 2024
-RA005372,MAJOR,264*,Major in Mathematics,2020 - 9999
-RA005373,CONC,264B,Conc in College Teaching (Mathematics),2020 - 9999
-RA005374,CONC,264C,Conc in Secondary Teaching (Mathematics),2020 - 9999
+RA005372,MAJOR,264*,Major in Mathematics,2020 - 2025
+RA005373,CONC,264B,Conc in College Teaching (Mathematics),2020 - 2025
+RA005374,CONC,264C,Conc in Secondary Teaching (Mathematics),2020 - 2025
 RA005375,MAJOR,113*,Major in Engineering Physics,2020 - 2021
 RA005376,CONC,145C,Conc in Clinical Psychology,2020 - 2020
 RA005377,MAJOR,416A,Major in Curriculum Specialist,2020 - 2022
@@ -4973,7 +4973,7 @@ RA005395,CONC,305I,Conc in Supply Chain Management,2020 - 9999
 RA005396,CONC,305C,Conc in International Business,2020 - 9999
 RA005397,CONC,305F,Conc in Business Analytics,2020 - 9999
 RA005398,MAJOR,340A,Cert in Business Analytics,2020 - 2020
-RA005399,MAJOR,207*,Major in Biology,2020 - 9999
+RA005399,MAJOR,207*,Major in Biology,2020 - 2025
 RA005400,CONC,207C,Conc in General Biology,2020 - 2024
 RA005401,CONC,207D,Conc in Ecology & Evolutionary Bio,2020 - 2024
 RA005402,CONC,207B,Conc in Cell & Molecular Biology,2020 - 2021
@@ -5168,7 +5168,7 @@ RA005593,DEGREE,MA_255F,Master of Arts,2019 - 9999
 RA005594,DEGREE,GRTC_427A,Professional School Counseling (Licensure Only),2019 - 9999
 RA005595,MAJOR,361A,Major in Supply Chain Management,2020 - 2022
 RA005596,CONC,233C,Conc in Professional Writing,2021 - 2022
-RA005597,OTHER,CBGLOB,WCOB Global Issues Requirement,2021 - 2025
+RA005597,OTHER,CBGLOB,WCOB Global Issues Requirement,2021 - 9999
 RA005598,OTHER,CBGLOB,WCOB Global Issues Requirement,2018 - 2020
 RA005599,MAJOR,269A,Major in Physics (BA),2021 - 2021
 RA005600,MAJOR,258A,Major in I/O Psychology & HR Management,2020 - 2020
@@ -5240,7 +5240,7 @@ RA005666,CONC,455G,Conc in Community College & Univ Ldrshp (EDS),2021 - 9999
 RA005667,CONC,454F,Conc in Adult & Developmental Ed (MA),2021 - 2024
 RA005668,CONC,454E,Conc in Teaching (Higher Ed MA),2021 - 2024
 RA005669,MAJOR,304*,Major in Applied Data Analytics,2021 - 2021
-RA005670,CONC,304D,Conc in Interdisciplinary Analytics,2021 - 9999
+RA005670,CONC,304D,Conc in Interdisciplinary Analytics,2021 - 2025
 RA005671,OTHER,#304D_305G,Dual Degree MSADA & MBA in IDS,2021 - 9999
 RA005672,OTHER,Z304D_305G,Dual Degree MSADA & MBA in IDS,2021 - 2021
 RA005673,MAJOR,305*,Major in Business Administration,2021 - 2022
@@ -5255,7 +5255,7 @@ RA005682,CONC,279C,Conc in Town City & County Mgmt,2021 - 9999
 RA005683,CONC,279F,Conc in Not-for-profit Management,2021 - 9999
 RA005684,MAJOR,340A,Cert in Business Analytics,2021 - 9999
 RA005685,OTHER,Z305G_454G,Dual Degree MBA & MA in Higher Ed Comm & Univ Ldr,2021 - 2022
-RA005686,CONC,305G,Conc in Interdisciplinary Business,2021 - 9999
+RA005686,CONC,305G,Conc in Interdisciplinary Business,2021 - 2025
 RA005687,MAJOR,423A,Cert in Addiction Counseling,2021 - 2021
 RA005688,MAJOR,154A,Cert in Aging Health and Society,2021 - 2022
 RA005689,MAJOR,200A,Cert in Appalachian Studies,2021 - 9999
@@ -5604,39 +5604,39 @@ RA006035,CONC,252J,Concentration in Sustainability,2022 - 2024
 RA006036,MAJOR,252*,Major in Psychology (BS),2017 - 2017
 RA006037,DEGREE,134A,Gender Women's & Sexuality Studies (GC),2019 - 9999
 RA006038,CONC,302C,Conc in General Accounting,2022 - 2023
-RA006039,MAJOR,302*,Major in Accounting,2022 - 9999
+RA006039,MAJOR,302*,Major in Accounting,2022 - 2025
 RA006040,CONC,302B,Conc in Taxation,2022 - 9999
 RA006041,CONC,302E,Conc in Analytics,2022 - 2024
 RA006042,MAJOR,558*,Major in Performance,2022 - 2023
-RA006043,CONC,558B,Conc in Performance/Bassoon,2022 - 9999
-RA006044,CONC,558D,Conc in Performance/Clarinet,2022 - 9999
-RA006045,CONC,558E,Conc in Performance/Flute,2022 - 9999
-RA006046,CONC,558F,Conc in Performance/French Horn,2022 - 9999
-RA006047,CONC,558G,Conc in Performance/Guitar,2022 - 9999
-RA006048,CONC,558H,Conc in Performance/Harp,2022 - 9999
-RA006049,CONC,558I,Conc in Performance/Oboe,2022 - 9999
-RA006050,CONC,558K,Conc in Performance/Organ,2022 - 9999
-RA006051,CONC,558L,Conc in Performance/Percussion,2022 - 9999
-RA006052,CONC,558M,Conc in Performance/Piano,2022 - 9999
-RA006053,CONC,558N,Conc in Performance/Saxophone,2022 - 9999
-RA006054,CONC,558P,Conc in Performance/Trombone,2022 - 9999
-RA006055,CONC,558Q,Conc in Performance/Trumpet,2022 - 9999
-RA006056,CONC,558R,Conc in Performance/Tuba,2022 - 9999
-RA006057,CONC,558Y,Conc in Performance/Euphonium,2022 - 9999
+RA006043,CONC,558B,Conc in Performance/Bassoon,2022 - 2025
+RA006044,CONC,558D,Conc in Performance/Clarinet,2022 - 2025
+RA006045,CONC,558E,Conc in Performance/Flute,2022 - 2025
+RA006046,CONC,558F,Conc in Performance/French Horn,2022 - 2025
+RA006047,CONC,558G,Conc in Performance/Guitar,2022 - 2025
+RA006048,CONC,558H,Conc in Performance/Harp,2022 - 2025
+RA006049,CONC,558I,Conc in Performance/Oboe,2022 - 2025
+RA006050,CONC,558K,Conc in Performance/Organ,2022 - 2025
+RA006051,CONC,558L,Conc in Performance/Percussion,2022 - 2025
+RA006052,CONC,558M,Conc in Performance/Piano,2022 - 2025
+RA006053,CONC,558N,Conc in Performance/Saxophone,2022 - 2025
+RA006054,CONC,558P,Conc in Performance/Trombone,2022 - 2025
+RA006055,CONC,558Q,Conc in Performance/Trumpet,2022 - 2025
+RA006056,CONC,558R,Conc in Performance/Tuba,2022 - 2025
+RA006057,CONC,558Y,Conc in Performance/Euphonium,2022 - 2025
 RA006058,MAJOR,680*,Major in Performance,2016 - 2021
 RA006059,MAJOR,680*,Major in Performance,2022 - 2023
-RA006060,CONC,680B,Conc in Performance/Conducting,2022 - 9999
+RA006060,CONC,680B,Conc in Performance/Conducting,2022 - 2025
 RA006061,MAJOR,423A,Cert in Addiction Counseling,2022 - 2022
 RA006062,MAJOR,702*,Major in Educational Leadership,2022 - 2022
 RA006063,MAJOR,464A,Cert in Instructional Technology Facilitation,2022 - 2023
 RA006064,OTHER,Z465A_400C,Dual Degree-MLS & MA in MTL,2022 - 2024
-RA006065,MAJOR,400*,Major in Media Technology & Learning Design,2022 - 9999
+RA006065,MAJOR,400*,Major in Media Technology & Learning Design,2022 - 2025
 RA006066,CONC,400C,Conc in IT K-12 Facilitation,2022 - 2022
 RA006067,MAJOR,427A,Major in Professional School Counseling,2022 - 2022
 RA006068,MAJOR,709*,Major in Clinical Mental Health Counseling,2022 - 2022
 RA006069,MAJOR,468A,Major in Marriage & Family Therapy,2022 - 2022
 RA006070,CONC,400B,Conc in IT Specialist,2022 - 2022
-RA006071,CONC,400D,Conc in Online Design Comm and Engagement,2022 - 9999
+RA006071,CONC,400D,Conc in Online Design Comm and Engagement,2022 - 2025
 RA006072,MAJOR,712A,Major in Student Affairs Administration,2022 - 2022
 RA006073,MAJOR,446A,Cert in Middle & Secondary Education,2022 - 2022
 RA006074,MAJOR,941A,Cert in Digital Media Literacy,2022 - 2023
@@ -5645,11 +5645,11 @@ RA006076,MAJOR,855*,Major in Health Administration,2022 - 9999
 RA006077,MAJOR,811A,Cert in Health and Physical Education,2022 - 2023
 RA006078,MAJOR,114A,Cert in Geographic Information Science,2022 - 2024
 RA006079,OTHER,Z304D_267C,Dual Degree MSADA & MA in PS-Amer Govern,2022 - 9999
-RA006080,OTHER,Z304D_267E,Dual Degree MSADA & MA in PS-Intl Relations,2022 - 9999
+RA006080,OTHER,Z304D_267E,Dual Degree MSADA & MA in PS-Intl Relations,2022 - 2025
 RA006081,OTHER,Z304D_267F,Dual Degree MSADA in IDS & MA in PS-Envir Politics,2022 - 9999
 RA006082,MAJOR,232*,Major in English,2022 - 2023
 RA006083,CONC,232F,Conc in Literary Studies,2022 - 9999
-RA006084,CONC,232D,Conc in Rhetoric and Composition,2022 - 9999
+RA006084,CONC,232D,Conc in Rhetoric and Composition,2022 - 2025
 RA006085,CONC,232E,Conc in Teaching Literature and Writing,2022 - 2022
 RA006086,CONC,237D,Conc in Geographic Information Science,2022 - 9999
 RA006087,CONC,207B,Conc in Cell & Molecular Biology,2022 - 2024
@@ -5716,7 +5716,7 @@ RA006147,MINOR,438,Minor in Teacher Education for Theatre Arts,2023 - 2024
 RA006148,MAJOR,441A,Major in Elementary Education,2023 - 2023
 RA006149,MAJOR,470*,Major in Middle Grades Education,2023 - 2024
 RA006150,OTHER,470SCIENCE,Middle Grades Science Requirements,2023 - 9999
-RA006151,MINOR,467,Minor in Media Studies,2023 - 9999
+RA006151,MINOR,467,Minor in Media Studies,2023 - 2024
 RA006152,CONC,510H,Concentration in Family & Child Studies,2023 - 2025
 RA006153,CONC,510G,Conc in Child Development (B-K),2023 - 2024
 RA006154,MINOR,510,Minor in Child Development,2023 - 2024
@@ -5775,16 +5775,16 @@ RA006206,MINOR,289,Minor in Statistics,2023 - 9999
 RA006207,DEGREE,MA_857B,Master of Arts,2023 - 9999
 RA006208,DEGREE,MA_857C,Master of Arts,2023 - 9999
 RA006209,MAJOR,857*,Major in Literacy Education,2023 - 9999
-RA006210,CONC,857B,Conc in Adult Literacy,2023 - 9999
+RA006210,CONC,857B,Conc in Adult Literacy,2023 - 2025
 RA006211,CONC,857C,Conc in Classroom/Clinical,2023 - 9999
 RA006212,DEGREE,MA_476A_1,Master of Arts,2023 - 9999
 RA006213,MAJOR,476A,Major in Special Education,2023 - 2023
 RA006214,DEGREE,GCERT_718A_1,Graduate Certificate,2023 - 9999
-RA006215,MAJOR,718A,Cert in Autism,2023 - 9999
+RA006215,MAJOR,718A,Cert in Autism,2023 - 2025
 RA006216,DEGREE,GCERT_719A_1,Graduate Certificate,2023 - 9999
 RA006217,MAJOR,719A,Cert in Birth through Kindergarten,2023 - 9999
 RA006218,DEGREE,GCERT_717A_1,Graduate Certificate,2023 - 9999
-RA006219,MAJOR,717A,Cert in Emotional and Behavioral Disorders,2023 - 9999
+RA006219,MAJOR,717A,Cert in Emotional and Behavioral Disorders,2023 - 2025
 RA006220,DEGREE,GCERT_720A_1,Graduate Certificate,2023 - 2024
 RA006221,MAJOR,720A,Cert in Special Education,2023 - 2023
 RA006222,DEGREE,MA_454E_1,Master of Arts,2023 - 9999
@@ -5800,7 +5800,7 @@ RA006231,MAJOR,468A,Major in Marriage & Family Therapy,2023 - 9999
 RA006232,DEGREE,GCERT_856A,Graduate Certificate,2023 - 9999
 RA006233,MAJOR,856A,Cert in Literacy Education,2023 - 9999
 RA006234,DEGREE,MA_427A_1,Major in Professional School Counseling,2023 - 9999
-RA006235,MAJOR,427A,Major in Professional School Counseling,2023 - 9999
+RA006235,MAJOR,427A,Major in Professional School Counseling,2023 - 2025
 RA006236,DEGREE,MA_712A_1,Master of Arts,2023 - 9999
 RA006237,MAJOR,712A,Major in Student Affairs Administration,2023 - 2024
 RA006238,DEGREE,GCERT_423A_1,Graduate Certificate,2023 - 9999
@@ -5843,7 +5843,7 @@ RA006274,CONC,400B,Conc in IT Specialist,2023 - 9999
 RA006275,DEGREE,MA_400D_1,Master of Arts,2023 - 9999
 RA006276,DEGREE,MLS_465A_1,Master of Library Science,2023 - 9999
 RA006277,DEGREE,GRTC_433A_1,Master of School Administration,2023 - 9999
-RA006278,MAJOR,433A,Major in School Administration,2023 - 9999
+RA006278,MAJOR,433A,Major in School Administration,2023 - 2025
 RA006279,DEGREE,GCERT_941A,Graduate Certificate,2022 - 2022
 RA006280,DEGREE,GCERT_941A_1,Graduate Certificate,2023 - 9999
 RA006281,DEGREE,GCERT_464A_1,Graduate Certificate,2023 - 9999
@@ -5898,7 +5898,7 @@ RA006329,DEGREE,BS_470R_2,Middle Grades Ed Science and Social Studies(BS),2019 -
 RA006330,DEGREE,BS_470R_2,Middle Grades Ed Science and Social Studies(BS),2016 - 2018
 RA006331,DEGREE,BS_470B_2,Middle Grades Education Language Arts (BS),2019 - 9999
 RA006332,MAJOR,843A,Major in Athletic Training,2023 - 9999
-RA006333,MAJOR,841*,Major in Nutrition,2023 - 9999
+RA006333,MAJOR,841*,Major in Nutrition,2023 - 2025
 RA006334,MAJOR,829A,Cert in Public Health Nutrition Practice,2023 - 9999
 RA006335,DEGREE,MHA_855D,Master of Health Administration,2023 - 9999
 RA006336,CONC,855D,Conc in Health Informatics,2023 - 9999
@@ -5920,7 +5920,7 @@ RA006351,DEGREE,BS_470E_2,Middle Grades Education Social Studies (BS),2019 - 999
 RA006352,DEGREE,BS_470E_2,Middle Grades Education Social Studies (BS),2016 - 2018
 RA006353,DEGREE,470E_2,Middle Grades Education Social Studies (GC),2019 - 9999
 RA006354,DEGREE,470E_2,Middle Grades Education Social Studies (GC),2016 - 2018
-RA006355,MAJOR,431A,Cert in Instructional Technology Leadership,2023 - 9999
+RA006355,MAJOR,431A,Cert in Instructional Technology Leadership,2023 - 2025
 RA006356,DEGREE,BS_456H_2,Career & Tech Edu Agriculture Edu (BS),2019 - 9999
 RA006357,DEGREE,456H_2,Career & Tech Edu Agriculture Edu (GC),2019 - 9999
 RA006358,DEGREE,BS_456B_2,Career & Tech Edu Bus Fin & Info Tech Edu (BS w),2019 - 9999
@@ -6014,12 +6014,12 @@ RA006446,OTHER,Z304D_258A,Dual Degree MSADA & MA in IO Psych & HR Management,202
 RA006447,DEGREE,MSW_135C_2,Master of Social Work,2019 - 9999
 RA006448,DEGREE,MA_468A_1,Master of Arts,2019 - 2022
 RA006449,MAJOR,517A,Major in Communication (Journalism),2019 - 9999
-RA006450,CONC,558V,Conc in Performance/Voice,2022 - 9999
-RA006451,CONC,558C,Conc in Performance/Cello,2022 - 9999
-RA006452,CONC,558W,Conc in Collaborative Piano,2022 - 9999
-RA006453,CONC,558O,Conc in Performance/String Bass,2022 - 9999
-RA006454,CONC,558T,Conc in Performance/Viola,2022 - 9999
-RA006455,CONC,558U,Conc in Performance/Violin,2022 - 9999
+RA006450,CONC,558V,Conc in Performance/Voice,2022 - 2025
+RA006451,CONC,558C,Conc in Performance/Cello,2022 - 2025
+RA006452,CONC,558W,Conc in Collaborative Piano,2022 - 2025
+RA006453,CONC,558O,Conc in Performance/String Bass,2022 - 2025
+RA006454,CONC,558T,Conc in Performance/Viola,2022 - 2025
+RA006455,CONC,558U,Conc in Performance/Violin,2022 - 2025
 RA006456,DEGREE,MMT_560A_1,Master of Music Therapy,2019 - 2019
 RA006457,DEGREE,MMT_560A_1,Master of Music Therapy,2020 - 9999
 RA006458,MAJOR,585A,Major in Communication Studies,2024 - 2024
@@ -6172,38 +6172,38 @@ RA006606,CONC,121E,Environ Sci Quantitative Env Science,2024 - 2024
 RA006607,OTHER,ENV121C,Earth Systems Science Electives,2024 - 9999
 RA006608,OTHER,ENV121F,Natural Resource Electives,2024 - 2024
 RA006609,MAJOR,585A,Major in Communication Studies,2020 - 2022
-RA006610,MAJOR,702*,Major in Educational Leadership,2024 - 9999
+RA006610,MAJOR,702*,Major in Educational Leadership,2024 - 2025
 RA006611,CONC,702D,Conc in Educational Administration,2024 - 9999
 RA006612,CONC,702F,Conc in Higher Education,2024 - 9999
-RA006613,CONC,702H,Conc in Instructional Technology Leadership,2024 - 9999
+RA006613,CONC,702H,Conc in Instructional Technology Leadership,2024 - 2025
 RA006614,CONC,702J,Conc in Interdisciplinary Studies,2024 - 9999
 RA006615,CONC,702I,Conc in Literacy in Exceptionalities,2024 - 9999
 RA006616,OTHER,Z702D_428A,Dual Degree EDD in Ed Admin & EDS in Ed Admin,2024 - 9999
 RA006617,MAJOR,715A,Major in Psychology,2024 - 2024
-RA006618,CONC,841B,Concentration in Dietetics,2024 - 9999
-RA006619,CONC,841C,Concentration in Public Health Nutrition,2024 - 9999
-RA006620,MAJOR,821A,Major in Speech-Language Pathology,2024 - 9999
+RA006618,CONC,841B,Concentration in Dietetics,2024 - 2025
+RA006619,CONC,841C,Concentration in Public Health Nutrition,2024 - 2025
+RA006620,MAJOR,821A,Major in Speech-Language Pathology,2024 - 2025
 RA006621,MAJOR,842*,Major in Exercise Science,2024 - 2025
 RA006622,CONC,842E,Conc in Clinical Exercise Physiology,2024 - 2025
 RA006623,CONC,842B,Conc in Research,2024 - 2025
 RA006624,CONC,842D,Conc in Strength and Conditioning,2024 - 2025
-RA006625,MAJOR,132A,Cert in Rhetoric & Composition,2024 - 9999
-RA006626,MAJOR,476A,Major in Special Education,2024 - 9999
-RA006627,CONC,302C,Conc in General Accounting,2024 - 9999
+RA006625,MAJOR,132A,Cert in Rhetoric & Composition,2024 - 2025
+RA006626,MAJOR,476A,Major in Special Education,2024 - 2025
+RA006627,CONC,302C,Conc in General Accounting,2024 - 2025
 RA006628,MAJOR,720A,Cert in Special Education,2024 - 2024
 RA006629,MAJOR,472*,Major in Middle Grades Education,2024 - 9999
 RA006630,MAJOR,446A,Cert in Middle & Secondary Education,2024 - 2024
-RA006631,MAJOR,232*,Major in English,2024 - 9999
+RA006631,MAJOR,232*,Major in English,2024 - 2025
 RA006632,CONC,454G,Conc in Community College & Univ Ldrshp (MA),2024 - 2024
 RA006633,OTHER,Z305G_454G,Dual Degree MBA & MA in Higher Ed Comm & Univ Ldr,2024 - 9999
-RA006634,MAJOR,425A,Cert in Expressive Arts Therapy,2024 - 9999
+RA006634,MAJOR,425A,Cert in Expressive Arts Therapy,2024 - 2025
 RA006635,MAJOR,709A,Major in Clinical Mental Health Counseling,2024 - 2024
 RA006636,MAJOR,941A,Cert in Digital Media Literacy,2024 - 9999
-RA006637,MAJOR,464A,Cert in Instructional Technology Facilitation,2024 - 9999
-RA006638,MAJOR,944A,Cert in Online Design Comm and Engagement,2024 - 9999
+RA006637,MAJOR,464A,Cert in Instructional Technology Facilitation,2024 - 2025
+RA006638,MAJOR,944A,Cert in Online Design Comm and Engagement,2024 - 2025
 RA006639,DEGREE,MA_416A_1,Master of Arts,2020 - 2022
 RA006640,DEGREE,MSOT_822A,Master of Science,2024 - 9999
-RA006641,MAJOR,822A,Major in Occupational Therapy,2024 - 9999
+RA006641,MAJOR,822A,Major in Occupational Therapy,2024 - 2025
 RA006642,CONC,599I,Conc in Renewable Energy Technology,2024 - 2024
 RA006643,CONC,599H,Conc in Sustain Bldg Design & Constr,2024 - 9999
 RA006644,DEGREE,MLS_465D,Master of Library Science,2024 - 9999
@@ -6213,9 +6213,9 @@ RA006647,CONC,465B,Conc in School Libraries,2024 - 2024
 RA006648,MAJOR,109A,Cert in Planning,2024 - 9999
 RA006649,MAJOR,560A,Major in Music Therapy,2024 - 2024
 RA006650,CONC,255F,Conc in Teaching,2024 - 9999
-RA006651,OTHER,Z709A_560A,Dual Degree MA in CMHC & MMT,2024 - 9999
-RA006652,MAJOR,558*,Major in Performance,2024 - 9999
-RA006653,OTHER,Z468A_560A,Dual Degree MA in MFT & MMT,2024 - 9999
+RA006651,OTHER,Z709A_560A,Dual Degree MA in CMHC & MMT,2024 - 2025
+RA006652,MAJOR,558*,Major in Performance,2024 - 2025
+RA006653,OTHER,Z468A_560A,Dual Degree MA in MFT & MMT,2024 - 2025
 RA006654,DEGREE,MA_427A_1,Major in Professional School Counseling,2021 - 2022
 RA006655,MAJOR,858A,Cert in Special Education Leadership,2024 - 2024
 RA006656,MAJOR,429A,Cert in Elementary Education,2024 - 9999
@@ -6227,9 +6227,9 @@ RA006661,OTHER,SDHON,Sustainable Development Departmental Honors,2024 - 9999
 RA006662,DEGREE,GCERT_429A_1,Graduate Certificate,2021 - 2022
 RA006663,DEGREE,MPH_833A,Master of Public Health,2024 - 9999
 RA006664,MAJOR,833A,Major in Public Health,2024 - 2024
-RA006665,OTHER,GENED15,General Education Requirements,2025 - 9999
+RA006665,OTHER,GENED15,General Education Requirements,2025 - 2025
 RA006666,DEGREE,MS_599I,Master of Science,2024 - 9999
-RA006667,CONC,232E,Conc in Teaching Literature and Writing,2023 - 9999
+RA006667,CONC,232E,Conc in Teaching Literature and Writing,2023 - 2025
 RA006668,DEGREE,MA_416A_3,Master of Arts,2024 - 9999
 RA006669,MAJOR,416A,Major in Curriculum Specialist,2024 - 9999
 RA006670,DEGREE,723A,Organizational Leadership and Learning (GC),2024 - 9999
@@ -6237,7 +6237,7 @@ RA006671,DEGREE,BS_723A,Organizational Leadership and Learning (BS_723A),2024 - 
 RA006672,MAJOR,723A,Organizational Leadership and Learning,2024 - 2024
 RA006673,CONC,260G,Conc in Mathematics (Physical Science),2024 - 9999
 RA006674,CONC,142C,Conc in Ecology Evol & Environmental Biology,2025 - 9999
-RA006675,CONC,558Z,Conc in Music Composition,2023 - 9999
+RA006675,CONC,558Z,Conc in Music Composition,2023 - 2025
 RA006676,CONC,270B,Conc in Applied Physics,2025 - 9999
 RA006677,CONC,567G,Exercise Science-General,2025 - 9999
 RA006679,MAJOR,574*,Major in Recreation Management,2025 - 9999
@@ -6249,7 +6249,7 @@ RA006684,MINOR,510,Minor in Child Development,2025 - 9999
 RA006685,DEGREE,MS_843A_1,Master of Science,2023 - 9999
 RA006686,MAJOR,811A,Cert in Health and Physical Education,2024 - 9999
 RA006687,OTHER,IDSHON,Interdisciplinary Studies Departmental Honors,2021 - 2021
-RA006688,MAJOR,680*,Major in Performance,2024 - 9999
+RA006688,MAJOR,680*,Major in Performance,2024 - 2025
 RA006689,OTHER,FAD,Foundations of American Democracy,2024 - 9999
 RA006690,OTHER,DANHON,Dance Studies Departmental Honors,2025 - 9999
 RA006691,MAJOR,846A,Health Sciences,2025 - 2025
@@ -6430,16 +6430,16 @@ RA006867,MINOR,532,Minor in Communication,2025 - 9999
 RA006868,OTHER,MGTELEC,Electives,2025 - 2025
 RA006869,MINOR,103,Minor in Religious Studies,2025 - 9999
 RA006870,DEGREE,MS_207C,Master of Science,2020 - 9999
-RA006871,CONC,207D,Conc in Ecology & Evolutionary Bio,2025 - 9999
-RA006872,CONC,207B,Conc in Cell & Molecular Biology,2025 - 9999
-RA006873,CONC,207C,Conc in General Biology,2025 - 9999
-RA006874,OTHER,Z465B_400C,Dual Degree-MLS-School Libs & MA in MTL-IT K-12,2025 - 9999
-RA006875,OTHER,Z465D_400D,Dual Degree-MLS-General & MA in MTL-ODCE,2025 - 9999
-RA006876,MAJOR,720A,Cert in Special Education,2025 - 9999
+RA006871,CONC,207D,Conc in Ecology & Evolutionary Bio,2025 - 2025
+RA006872,CONC,207B,Conc in Cell & Molecular Biology,2025 - 2025
+RA006873,CONC,207C,Conc in General Biology,2025 - 2025
+RA006874,OTHER,Z465B_400C,Dual Degree-MLS-School Libs & MA in MTL-IT K-12,2025 - 2025
+RA006875,OTHER,Z465D_400D,Dual Degree-MLS-General & MA in MTL-ODCE,2025 - 2025
+RA006876,MAJOR,720A,Cert in Special Education,2025 - 2025
 RA006877,OTHER,Z305G_258A,Dual Degree MBA & MA in Psychology/IOHRM,2025 - 9999
-RA006878,MAJOR,465*,Major in Library Science,2025 - 9999
-RA006879,CONC,465D,Conc in Library Science General,2025 - 9999
-RA006880,CONC,465B,Conc in School Libraries,2025 - 9999
+RA006878,MAJOR,465*,Major in Library Science,2025 - 2025
+RA006879,CONC,465D,Conc in Library Science General,2025 - 2025
+RA006880,CONC,465B,Conc in School Libraries,2025 - 2025
 RA006881,DEGREE,GCERT_725A,Graduate Certificate,2025 - 9999
 RA006882,DEGREE,MS_815C,Master of Science,2025 - 9999
 RA006883,DEGREE,MS_815D,Master of Science,2025 - 9999
@@ -6454,7 +6454,7 @@ RA006891,DEGREE,BS_830A_2,Public Health (BS),2019 - 9999
 RA006892,DEGREE,830A_2,Public Health (GC),2019 - 9999
 RA006893,DEGREE,BS_830A_2,Public Health (BS),2017 - 2018
 RA006894,DEGREE,830A_2,Public Health (GC),2017 - 2018
-RA006895,OTHER,Z815D_304D,Dual Degree MS IN KIN IN RESEARCH & MSADA IN IDS,2025 - 9999
+RA006895,OTHER,Z815D_304D,Dual Degree MS IN KIN IN RESEARCH & MSADA IN IDS,2025 - 2025
 RA006896,MAJOR,833A,Major in Public Health,2025 - 9999
 RA006897,MAJOR,815*,Major in Kinesiology,2025 - 9999
 RA006898,CONC,815D,Conc in Research,2025 - 9999
@@ -6463,7 +6463,7 @@ RA006900,CONC,815C,Conc in Clinical Exercise Physiology,2025 - 9999
 RA006901,MAJOR,773A,Cert in Mathematics Content for College Teaching,2025 - 9999
 RA006902,MAJOR,721A,Cert in Applied Educational Research,2025 - 9999
 RA006903,MAJOR,446A,Cert in Middle & Secondary Education,2025 - 9999
-RA006904,MAJOR,716A,Cert in International Leadership,2025 - 9999
+RA006904,MAJOR,716A,Cert in International Leadership,2025 - 2025
 RA006905,MAJOR,305*,Major in Business Administration,2025 - 9999
 RA006906,CONC,302E,Conc in Analytics,2025 - 9999
 RA006907,CONC,304K,Conc in Artificial Intelligence,2025 - 9999
@@ -6473,12 +6473,12 @@ RA006910,MAJOR,145*,Major in Psychology,2025 - 9999
 RA006911,CONC,145D,Conc in Psychological Science,2025 - 9999
 RA006912,CONC,145C,Conc in Clinical Psychology,2025 - 9999
 RA006913,MAJOR,715A,Major in Psychology,2025 - 9999
-RA006914,MAJOR,560A,Major in Music Therapy,2025 - 9999
+RA006914,MAJOR,560A,Major in Music Therapy,2025 - 2025
 RA006915,CONC,305K,Conc in Artificial Intelligence,2025 - 9999
-RA006916,MAJOR,858A,Cert in Special Education Leadership,2025 - 9999
+RA006916,MAJOR,858A,Cert in Special Education Leadership,2025 - 2025
 RA006917,MAJOR,709A,Major in Clinical Mental Health Counseling,2025 - 9999
 RA006918,MAJOR,423A,Cert in Addiction Counseling,2025 - 9999
-RA006919,MAJOR,712A,Major in Student Affairs Administration,2025 - 9999
+RA006919,MAJOR,712A,Major in Student Affairs Administration,2025 - 2025
 RA006920,CONC,222C,Conc in French College Teaching,2025 - 9999
 RA006921,CONC,222E,Conc in Spanish College Teaching,2025 - 9999
 RA006922,MAJOR,727A,Cert in Trauma-Informed Leadership,2025 - 9999
@@ -6673,3 +6673,108 @@ RA007110,MINOR,349,Minor in Sustainable Business,2026 - 9999
 RA007111,CONC,812C,Applied Exercise Physiology,2026 - 9999
 RA007112,MAJOR,924A,Professional Studies,2026 - 9999
 RA007113,MINOR,126,Minor in Judaic Holocaust & Peace Studies,2026 - 9999
+RA007114,OTHER,GENED15,General Education Requirements,2026 - 9999
+RA007115,MINOR,233,Minor in English,2026 - 9999
+RA007116,MINOR,131,Minor in Medieval Studies,2026 - 9999
+RA007117,MAJOR,433A,Major in School Administration,2026 - 9999
+RA007118,MAJOR,821A,Major in Speech-Language Pathology,2026 - 9999
+RA007119,MAJOR,718A,Cert in Autism,2026 - 9999
+RA007120,CONC,857B,Conc in Adult Literacy,2026 - 9999
+RA007121,MAJOR,858A,Cert in Special Education Leadership,2026 - 9999
+RA007122,MAJOR,717A,Cert in Emotional and Behavioral Disorders,2026 - 9999
+RA007123,MAJOR,720A,Cert in Special Education,2026 - 9999
+RA007124,OTHER,Z709A_560A,Dual Degree MA in CMHC & MMT,2026 - 9999
+RA007125,OTHER,Z468A_560A,Dual Degree MA in MFT & MMT,2026 - 9999
+RA007126,MAJOR,425A,Cert in Expressive Arts Therapy,2026 - 9999
+RA007127,MAJOR,427A,Major in Professional School Counseling,2026 - 9999
+RA007128,MAJOR,702*,Major in Educational Leadership,2026 - 9999
+RA007129,CONC,702H,Conc in Instructional Technology Leadership,2026 - 9999
+RA007130,MAJOR,309A,AI in Business,2026 - 9999
+RA007131,MAJOR,716A,Cert in International Leadership,2026 - 9999
+RA007132,MAJOR,951A,Learning Design and Technology,2026 - 9999
+RA007133,OTHER,Z859C_400C_1,Dual Degree-MLIS-School Libs & MA in MTL-IT K-12,2026 - 9999
+RA007134,OTHER,Z859B_400E,Dual Degree-MLIS-General & MA in MTL-LDT,2026 - 9999
+RA007135,MAJOR,431A,Cert in Instructional Technology Leadership,2026 - 9999
+RA007136,MAJOR,400*,Major in Media Technology & Learning Design,2026 - 9999
+RA007137,CONC,400E,Conc in Learning Design and Technology,2026 - 9999
+RA007138,MAJOR,841*,Major in Nutrition,2026 - 9999
+RA007139,CONC,841C,Concentration in Public Health Nutrition,2026 - 9999
+RA007140,CONC,841B,Concentration in Dietetics,2026 - 9999
+RA007141,CONC,841D,Concentration in PH Nutrition & Dietetics,2026 - 9999
+RA007142,MAJOR,560A,Major in Music Therapy,2026 - 9999
+RA007143,MAJOR,207*,Major in Biology,2026 - 9999
+RA007144,CONC,207B,Conc in Cell & Molecular Biology,2026 - 9999
+RA007145,CONC,207D,Conc in Ecology & Evolutionary Bio,2026 - 9999
+RA007146,CONC,207C,Conc in General Biology,2026 - 9999
+RA007147,CONC,224G,Conc in Artificial Intelligence,2026 - 9999
+RA007148,CONC,224E,Conc in Data Science & Visual Computing,2026 - 9999
+RA007149,CONC,224C,Conc in Systems,2026 - 9999
+RA007150,CONC,224B,Conc in Theoretics,2026 - 9999
+RA007151,CONC,224D,Conc in Web & Mobile,2026 - 9999
+RA007152,MAJOR,232*,Major in English,2026 - 9999
+RA007153,CONC,232D,Conc in Rhetoric and Composition,2026 - 9999
+RA007154,CONC,232E,Conc in Teaching Literature and Writing,2026 - 9999
+RA007155,MAJOR,132A,Cert in Rhetoric & Composition,2026 - 9999
+RA007156,MAJOR,264*,Major in Mathematics,2026 - 9999
+RA007157,CONC,264B,Conc in College Teaching (Mathematics),2026 - 9999
+RA007158,CONC,264C,Conc in Secondary Teaching (Mathematics),2026 - 9999
+RA007159,OTHER,Z264B_113B,Dual Degree MA in Math & MS in Engineering Physics,2026 - 9999
+RA007160,MAJOR,859*,Major in Library and Information Science,2026 - 9999
+RA007161,CONC,859B,Conc in Library Science General,2026 - 9999
+RA007162,CONC,859C,Conc in School Libraries,2026 - 9999
+RA007163,MAJOR,464A,Cert in Instructional Technology Facilitation,2026 - 9999
+RA007164,CONC,304D,Conc in Interdisciplinary Analytics,2026 - 9999
+RA007165,CONC,305G,Conc in Interdisciplinary Business,2026 - 9999
+RA007166,CONC,267G,Conc in International Relations,2026 - 9999
+RA007167,MAJOR,835A,Doctor in Nursing Practice,2026 - 9999
+RA007168,MAJOR,267*,Major in Political Science,2026 - 9999
+RA007169,OTHER,Z815D_304D,Dual Degree MS IN KIN IN RESEARCH & MSADA IN IDS,2026 - 9999
+RA007170,MAJOR,853A,Cert in Sport Science Analytics,2026 - 9999
+RA007171,OTHER,Z304D_267G,Dual Degree MSADA & MA in PS-Intl Relations,2026 - 9999
+RA007172,MAJOR,135*,Major in Social Work,2026 - 9999
+RA007173,CONC,135B,Conc in Community & Org Practice,2026 - 9999
+RA007174,CONC,135C,Conc in Individuals & Families,2026 - 9999
+RA007175,MAJOR,558*,Major in Performance,2026 - 9999
+RA007176,CONC,558W,Conc in Collaborative Piano,2026 - 9999
+RA007177,CONC,558B,Conc in Performance/Bassoon,2026 - 9999
+RA007178,CONC,558C,Conc in Performance/Cello,2026 - 9999
+RA007179,CONC,558D,Conc in Performance/Clarinet,2026 - 9999
+RA007180,CONC,558Y,Conc in Performance/Euphonium,2026 - 9999
+RA007181,CONC,558E,Conc in Performance/Flute,2026 - 9999
+RA007182,CONC,558F,Conc in Performance/French Horn,2026 - 9999
+RA007183,CONC,558G,Conc in Performance/Guitar,2026 - 9999
+RA007184,CONC,558H,Conc in Performance/Harp,2026 - 9999
+RA007185,CONC,558Z,Conc in Music Composition,2026 - 9999
+RA007186,CONC,558I,Conc in Performance/Oboe,2026 - 9999
+RA007187,CONC,558K,Conc in Performance/Organ,2026 - 9999
+RA007188,CONC,558L,Conc in Performance/Percussion,2026 - 9999
+RA007189,CONC,558M,Conc in Performance/Piano,2026 - 9999
+RA007190,CONC,558N,Conc in Performance/Saxophone,2026 - 9999
+RA007191,CONC,558O,Conc in Performance/String Bass,2026 - 9999
+RA007192,CONC,558P,Conc in Performance/Trombone,2026 - 9999
+RA007193,CONC,558Q,Conc in Performance/Trumpet,2026 - 9999
+RA007194,CONC,558R,Conc in Performance/Tuba,2026 - 9999
+RA007195,CONC,558T,Conc in Performance/Viola,2026 - 9999
+RA007196,CONC,558U,Conc in Performance/Violin,2026 - 9999
+RA007197,CONC,558V,Conc in Performance/Voice,2026 - 9999
+RA007198,MAJOR,680*,Major in Performance,2026 - 9999
+RA007199,CONC,680B,Conc in Performance/Conducting,2026 - 9999
+RA007200,MAJOR,822A,Major in Occupational Therapy,2026 - 9999
+RA007201,DEGREE,GCERT_473A_1,Graduate Certificate,2019 - 2019
+RA007202,DEGREE,MSOT_822A_2,Master of Science,2024 - 9999
+RA007203,DEGREE,DNP_835A,Doctor of Nursing Practice,2026 - 9999
+RA007204,DEGREE,MLIS_859B,Master of Library and Information Science,2026 - 9999
+RA007205,DEGREE,MLIS_859C,Master of Library and Information Science,2026 - 9999
+RA007206,DEGREE,GCERT_309A,Graduate Certificate,2026 - 9999
+RA007207,DEGREE,GCERT_853A,Graduate Certificate,2026 - 9999
+RA007208,DEGREE,MS_841D,Master of Science,2026 - 9999
+RA007209,DEGREE,MS_224G,Master of Science,2026 - 9999
+RA007210,MAJOR,476A,Major in Special Education,2026 - 9999
+RA007211,MAJOR,302*,Major in Accounting,2026 - 9999
+RA007212,CONC,302C,Conc in General Accounting,2026 - 9999
+RA007213,OTHER,CSDHON,Com Sciences and Disorders Departmental Honors,2009 - 9999
+RA007214,DEGREE,MLIS_859B_2,Master of Library and Information Science,2026 - 9999
+RA007215,MINOR,202,Minor in Evolutionary Anthropology & Primatology,2025 - 9999
+RA007216,MINOR,467,Minor in Media Studies,2025 - 9999
+RA007217,DEGREE,102D,Religious Studies Religion and Public Affairs(GC),2026 - 9999
+RA007218,DEGREE,BA_102D,Religious Studies Religion and Public Affairs(BA),2026 - 9999
